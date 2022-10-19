@@ -19,6 +19,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
 
+<b>i don't know what i am suppose to write but i'll be back soon if i had in my mind!</b>
+
 ### Skills
 
 <p align="left">
