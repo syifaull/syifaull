@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syifa Ulyanidaa
-=======================================================================================================================================
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syifa Ulyanidaa
+======================================================================================================================================= -->
+
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you
 <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
 
-<b>i don't know what i am suppose to write but i'll be back soon if i had in my mind!</b>
+<b align="left">i don't know what i am suppose to write but i'll be back soon if i had in my mind!</b>
 
 ### Skills
 
@@ -44,10 +46,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/syifaull"><img src="https://github-readme-stats.vercel.app/api?username=syifaull&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="syifaull's GitHub stats" /></a>
+<a href="http://www.github.com/syifaull"><img src="https://github-readme-stats.vercel.app/api?username=syifaull&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="syifaull's GitHub stats" align="left"/></a>
 
-<a href="https://github.com/syifaull" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaull&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/syifaull" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaull&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right" /></a>
 
 <a href="http://www.github.com/syifaull"><img src="https://activity-graph.herokuapp.com/graph?username=syifaull&bg_color=1c1917&color=64748b&line=3382ed&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
 
 
