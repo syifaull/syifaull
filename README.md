@@ -43,8 +43,6 @@ live in Lampung, Indonesia :indonesia: 😄 my friends usually call me sipaul fo
   
 </div>
 
-<a href="http://www.github.com/syifaull"><img src="https://activity-graph.herokuapp.com/graph?username=syifaull&bg_color=1c1917&color=64748b&line=3382ed&point=64748b&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 
  
 
